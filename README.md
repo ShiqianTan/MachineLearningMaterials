@@ -5,3 +5,6 @@ This reporitory collects and bookmarks the materials related to Machine Learning
 ## Handling missing data
 - [Statistical Analysis with Missing Data](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119482260) [2019]
 - [Missing Data Problems in Machine Learning](https://people.cs.umass.edu/~marlin/research/phd_thesis/marlin-phd-thesis.pdf) [2008]
+
+## Benchmarking platform
+- [Matbench Discovery -- A framework to evaluate machine learning crystal stability predictions](https://arxiv.org/abs/2308.14920) [2023]
