@@ -8,3 +8,6 @@ This reporitory collects and bookmarks the materials related to Machine Learning
 
 ## Benchmarking platform
 - [Matbench Discovery -- A framework to evaluate machine learning crystal stability predictions](https://arxiv.org/abs/2308.14920) [2023]
+
+## Self-Driving Laboratory
+- [The rise of self-driving labs in chemical and materials sciences](https://www.nature.com/articles/s44160-022-00231-0) [2024]- Nature Synthesis, Review
