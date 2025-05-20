@@ -14,3 +14,6 @@ This reporitory collects and bookmarks the materials related to Machine Learning
 
 ## BO
 - [On-the-fly closed-loop materials discovery via Bayesian active learning](https://www.nature.com/articles/s41467-020-19597-w) [2020] - NComm
+
+## NS
+- [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) [2023] - Nature
