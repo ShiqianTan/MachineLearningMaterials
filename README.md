@@ -23,6 +23,15 @@ This reporitory collects and bookmarks the materials related to Machine Learning
 - [Are large language models superhuman chemists?](https://arxiv.org/abs/2404.01475) [2024]
 - [Mistral 7B](https://arxiv.org/abs/2310.06825) [2023]
 
+## ML algorithm
+### GNN
+- [Defect graph neural networks for materials discovery in high-temperature clean-energy applications](https://www.nature.com/articles/s43588-023-00495-2) [2023]
+- [Fast evaluation of the adsorption energy of organic molecules on metals via graph neural networks](https://www.nature.com/articles/s43588-023-00437-y) [2023]
+- [A universal graph deep learning interatomic potential for the periodic table](https://www.nature.com/articles/s43588-022-00349-3) [2022]
+- [Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals](https://pubs.acs.org/doi/10.1021/acs.chemmater.9b01294) [2019]
+- [Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.145301) [2018]
+- [Developing an improved crystal graph convolutional neural network framework for accelerated materials discovery](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.063801) [2020]
+
 ## NS
 - [Physics Nobel scooped by machine-learning pioneers](https://www.nature.com/articles/d41586-024-03213-8) - Nature, 2024 Nobel Physics Prize
 - [Chemistry Nobel goes to developers of AlphaFold AI that predicts protein structures](https://www.nature.com/articles/d41586-024-03214-7) [2024] - Nature, 2024 Nobel Chemistry Prize
@@ -30,6 +39,7 @@ This reporitory collects and bookmarks the materials related to Machine Learning
 - [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) [2023] - Nature
 - [Evolutionary-scale prediction of atomic-level protein structure with a language model](https://www.science.org/doi/10.1126/science.ade2574) [2023] - Science
 - [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2) [2023] - Nature
+- [Scaling deep learning for materials discovery](https://www.nature.com/articles/s41586-023-06735-9) [2023] - Nature
 
 ## Review
 - [Empowering Generalist Material Intelligence with Large Language Models](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202502771?casa_token=IRGsdToEsD0AAAAA%3A6rWxZXRcLkL1K3yS1h6xKWwgu-g7e8FmwDJCURRyL6b_6Gp-mbphz0Zu2VmXDFcFLk5Y1lWNr8RBS2pj) [2025]
