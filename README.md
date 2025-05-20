@@ -19,5 +19,6 @@ This reporitory collects and bookmarks the materials related to Machine Learning
 - [Are LLMs Ready for Real-World Materials Discovery?](https://arxiv.org/abs/2402.05200) [2024]
 
 ## NS
+- [Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0) [2024] - Nature
 - [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) [2023] - Nature
 - [Evolutionary-scale prediction of atomic-level protein structure with a language model](https://www.science.org/doi/10.1126/science.ade2574) [2023] - Science
