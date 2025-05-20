@@ -34,6 +34,11 @@ This reporitory collects and bookmarks the materials related to Machine Learning
 ## Review
 - [Empowering Generalist Material Intelligence with Large Language Models](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202502771?casa_token=IRGsdToEsD0AAAAA%3A6rWxZXRcLkL1K3yS1h6xKWwgu-g7e8FmwDJCURRyL6b_6Gp-mbphz0Zu2VmXDFcFLk5Y1lWNr8RBS2pj) [2025]
 - [AI in materials science: Charting the course to Nobel-worthy breakthroughs](https://www.cell.com/matter/abstract/S2590-2385(24)00587-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2590238524005873%3Fshowall%3Dtrue) [2024]
+- [Structure prediction and materials design with generative neural networks](https://www.nature.com/articles/s43588-023-00471-w) [2023]
+- [Knowledge-integrated machine learning for materials: lessons from gameplaying and robotics](https://www.nature.com/articles/s41578-022-00513-1) [2023]
+- [Human- and machine-centred designs of molecules and materials for sustainability and decarbonization](https://www.nature.com/articles/s41578-022-00466-5) [2022]
+- [Machine learning for a sustainable energy future](https://www.nature.com/articles/s41578-022-00490-5) [2022]
+- [Towards the computational design of solid catalysts](https://www.nature.com/articles/nchem.121) [2009]
 
 ## Book
 - [Deep learning for molecules and materials](https://dmol.pub/index.html)
