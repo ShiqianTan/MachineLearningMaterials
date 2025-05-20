@@ -13,6 +13,7 @@ This reporitory collects and bookmarks the materials related to Machine Learning
 - [The rise of self-driving labs in chemical and materials sciences](https://www.nature.com/articles/s44160-022-00231-0) [2024]- Nature Synthesis, Review
 
 ## BO
+- [Bayesian Optimization of Catalysis With In-Context Learning](https://arxiv.org/abs/2304.05341) [2023]
 - [On-the-fly closed-loop materials discovery via Bayesian active learning](https://www.nature.com/articles/s41467-020-19597-w) [2020] - NComm
 
 ## LLM
