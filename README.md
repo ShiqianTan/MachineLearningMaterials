@@ -29,6 +29,7 @@ This reporitory collects and bookmarks the materials related to Machine Learning
 - [Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0) [2024] - Nature
 - [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) [2023] - Nature
 - [Evolutionary-scale prediction of atomic-level protein structure with a language model](https://www.science.org/doi/10.1126/science.ade2574) [2023] - Science
+- [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2) [2023] - Nature
 
 ## Review
 - [Empowering Generalist Material Intelligence with Large Language Models](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202502771?casa_token=IRGsdToEsD0AAAAA%3A6rWxZXRcLkL1K3yS1h6xKWwgu-g7e8FmwDJCURRyL6b_6Gp-mbphz0Zu2VmXDFcFLk5Y1lWNr8RBS2pj) [2025]
