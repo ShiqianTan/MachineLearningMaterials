@@ -17,6 +17,7 @@ This reporitory collects and bookmarks the materials related to Machine Learning
 
 ## LLM
 - [Are LLMs Ready for Real-World Materials Discovery?](https://arxiv.org/abs/2402.05200) [2024]
+- [Fine-tuning large language models for chemical text mining](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d4sc00924j) [2024]
 
 ## NS
 - [Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0) [2024] - Nature
