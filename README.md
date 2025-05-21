@@ -12,7 +12,12 @@ This reporitory collects and bookmarks the materials related to Machine Learning
 ## Self-Driving Laboratory
 - [The rise of self-driving labs in chemical and materials sciences](https://www.nature.com/articles/s44160-022-00231-0) [2024]- Nature Synthesis, Review
 - [High-entropy materials for energy and electronic applications](https://www.nature.com/articles/s41578-018-0005-z) [2024]
+- [Toward Making Polymer Chemistry Autonomous](https://pubs.acs.org/doi/10.1021/acsaenm.4c00214) [2024]
+- [ChemOS 2.0: An orchestration architecture for chemical self-driving laboratories](https://www.cell.com/matter/abstract/S2590-2385(24)00195-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2590238524001954%3Fshowall%3Dtrue) [2024]
+- [Self-Driving Laboratories for Chemistry and Materials Science](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055?src=getftr&utm_source=wiley&getft_integrator=wiley) [2024]
+- [Autonomous chemistry: Navigating self-driving labs in chemical and material sciences](https://www.cell.com/matter/abstract/S2590-2385(24)00322-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2590238524003229%3Fshowall%3Dtrue) [2024]
 - [Autonomous experiments using active learning and AI](https://www.nature.com/articles/s41578-023-00588-4) [2023]
+- [The rise of self-driving labs in chemical and materials sciences](https://www.nature.com/articles/s44160-022-00231-0) [2023]
 - [Adaptively driven X-ray diffraction guided by machine learning for autonomous phase identification](https://www.nature.com/articles/s41524-023-00984-y) [2023]
 
 ## BO
