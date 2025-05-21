@@ -21,6 +21,7 @@ This reporitory collects and bookmarks the materials related to Machine Learning
 - [Are LLMs Ready for Real-World Materials Discovery?](https://arxiv.org/abs/2402.05200) [2024]
 - [Fine-tuning large language models for chemical text mining](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d4sc00924j) [2024]
 - [Are large language models superhuman chemists?](https://arxiv.org/abs/2404.01475) [2024]
+- [Creation of a structured solar cell material dataset and performance prediction using large language models](https://www.cell.com/patterns/fulltext/S2666-3899(24)00054-0) [2024]
 - [Mistral 7B](https://arxiv.org/abs/2310.06825) [2023]
 
 ## ML algorithm
