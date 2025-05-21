@@ -44,6 +44,7 @@ This reporitory collects and bookmarks the materials related to Machine Learning
 
 ### Transformer
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://www.jmlr.org/papers/v21/20-074.html) [2020] - T5, Encoder-Decoder
+- [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461?spm=a2c6h.13046898.publish-article.9.99fc6ffa8EPYJl&file=1910.13461) [2019] - BART, Encoder-Decoder
 
 ## NS
 - [Physics Nobel scooped by machine-learning pioneers](https://www.nature.com/articles/d41586-024-03213-8) - Nature, 2024 Nobel Physics Prize
