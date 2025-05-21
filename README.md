@@ -11,6 +11,9 @@ This reporitory collects and bookmarks the materials related to Machine Learning
 
 ## Self-Driving Laboratory
 - [The rise of self-driving labs in chemical and materials sciences](https://www.nature.com/articles/s44160-022-00231-0) [2024]- Nature Synthesis, Review
+- [High-entropy materials for energy and electronic applications](https://www.nature.com/articles/s41578-018-0005-z) [2024]
+- [Autonomous experiments using active learning and AI](https://www.nature.com/articles/s41578-023-00588-4) [2023]
+- [Adaptively driven X-ray diffraction guided by machine learning for autonomous phase identification](https://www.nature.com/articles/s41524-023-00984-y) [2023]
 
 ## BO
 - [Bayesian Optimization of Catalysis With In-Context Learning](https://arxiv.org/abs/2304.05341) [2023]
