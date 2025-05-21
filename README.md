@@ -25,6 +25,7 @@ This reporitory collects and bookmarks the materials related to Machine Learning
 - [Fine-tuning large language models for chemical text mining](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d4sc00924j) [2024]
 - [Are large language models superhuman chemists?](https://arxiv.org/abs/2404.01475) [2024]
 - [Creation of a structured solar cell material dataset and performance prediction using large language models](https://www.cell.com/patterns/fulltext/S2666-3899(24)00054-0) [2024]
+- [AtomGPT: Atomistic Generative Pretrained Transformer for Forward and Inverse Materials Design](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c01126) [2024]
 - [Mistral 7B](https://arxiv.org/abs/2310.06825) [2023]
 
 ## ML algorithm
