@@ -42,6 +42,9 @@ This reporitory collects and bookmarks the materials related to Machine Learning
 - [Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.145301) [2018]
 - [Developing an improved crystal graph convolutional neural network framework for accelerated materials discovery](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.063801) [2020]
 
+### Transformer
+- [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://www.jmlr.org/papers/v21/20-074.html) [2020] - T5, Encoder-Decoder
+
 ## NS
 - [Physics Nobel scooped by machine-learning pioneers](https://www.nature.com/articles/d41586-024-03213-8) - Nature, 2024 Nobel Physics Prize
 - [Chemistry Nobel goes to developers of AlphaFold AI that predicts protein structures](https://www.nature.com/articles/d41586-024-03214-7) [2024] - Nature, 2024 Nobel Chemistry Prize
