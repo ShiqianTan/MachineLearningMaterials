@@ -47,6 +47,7 @@ This reporitory collects and bookmarks the materials related to Machine Learning
 - [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461?spm=a2c6h.13046898.publish-article.9.99fc6ffa8EPYJl&file=1910.13461) [2019] - BART, Encoder-Decoder
 
 ## NS
+- [Ultrabroadband and band-selective thermal meta-emitters by machine learning](https://www.nature.com/articles/s41586-025-09102-y) - Metamaterials invers design, Nature, 2025
 - [Physics Nobel scooped by machine-learning pioneers](https://www.nature.com/articles/d41586-024-03213-8) - Nature, 2024 Nobel Physics Prize
 - [Chemistry Nobel goes to developers of AlphaFold AI that predicts protein structures](https://www.nature.com/articles/d41586-024-03214-7) [2024] - Nature, 2024 Nobel Chemistry Prize
 - [Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0) [2024] - Nature
